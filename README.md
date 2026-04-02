@@ -20,7 +20,10 @@ Retail businesses operating globally face challenges in tracking sales, profit m
 
 ---
 
-## 🗂️ ER Diagram & Relationships  
+## 🗂️ ER Diagram & Relationships 
+
+![Global Sales Diagram](Global Sales Diagram.png)
+
 **Entities:**  
 - Customer (CustomerID, Name, Segment, Region)  
 - Product (ProductID, ProductName, Category)  
